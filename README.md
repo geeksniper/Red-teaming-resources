@@ -1,4 +1,4 @@
-# Red-teaming-process
+# Red-teaming-resources
 
 
 List of Red Team / Red Teaming Resources
